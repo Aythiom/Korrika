@@ -12,6 +12,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comentarios", "Comentarios", "{F917510F-5B07-4395-B05D-A381C2EB0DFA}"
 	ProjectSection(SolutionItems) = preProject
 		Comentarios Profesorado.txt = Comentarios Profesorado.txt
+		notas.xlsx = notas.xlsx
 	EndProjectSection
 EndProject
 Global
